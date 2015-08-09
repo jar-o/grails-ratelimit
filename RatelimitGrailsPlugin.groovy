@@ -10,7 +10,7 @@ class RatelimitGrailsPlugin {
     def description = '''\
 Simple value-based rate limiting plugin. Not intended to replace actual server
 rate limiting, this plugin gives you a low calorie way of ensuring some piece of
-code, such as a controller action, can be limited by some an piece of data,
+code, such as a controller action, can be limited by some piece of data,
 such as IP address.
 
 '''
